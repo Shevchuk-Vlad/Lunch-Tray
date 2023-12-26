@@ -5,9 +5,11 @@ public class BR {
 
   public static final int accompanimentFragment = 1;
 
-  public static final int entreeFragment = 2;
+  public static final int checkoutFragment = 2;
 
-  public static final int sideFragment = 3;
+  public static final int entreeFragment = 3;
 
-  public static final int viewModel = 4;
+  public static final int sideFragment = 4;
+
+  public static final int viewModel = 5;
 }
