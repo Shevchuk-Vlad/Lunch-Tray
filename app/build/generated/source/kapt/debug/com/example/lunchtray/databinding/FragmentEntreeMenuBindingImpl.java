@@ -14,6 +14,7 @@ public class FragmentEntreeMenuBindingImpl extends FragmentEntreeMenuBinding imp
     static {
         sIncludes = null;
         sViewsWithIds = new android.util.SparseIntArray();
+        sViewsWithIds.put(R.id.entree_options, 16);
         sViewsWithIds.put(R.id.divider, 17);
     }
     // views
@@ -41,23 +42,23 @@ public class FragmentEntreeMenuBindingImpl extends FragmentEntreeMenuBinding imp
     }
     private FragmentEntreeMenuBindingImpl(androidx.databinding.DataBindingComponent bindingComponent, View root, Object[] bindings) {
         super(bindingComponent, root, 1
-            , (android.widget.Button) bindings[15]
-            , (android.widget.RadioButton) bindings[2]
+            , (android.widget.Button) bindings[14]
+            , (android.widget.RadioButton) bindings[1]
+            , (android.widget.TextView) bindings[2]
             , (android.widget.TextView) bindings[3]
-            , (android.widget.TextView) bindings[4]
-            , (android.widget.RadioButton) bindings[5]
+            , (android.widget.RadioButton) bindings[4]
+            , (android.widget.TextView) bindings[5]
             , (android.widget.TextView) bindings[6]
-            , (android.widget.TextView) bindings[7]
             , (android.view.View) bindings[17]
-            , (android.widget.RadioGroup) bindings[1]
-            , (android.widget.Button) bindings[16]
-            , (android.widget.RadioButton) bindings[8]
+            , (android.widget.RadioGroup) bindings[16]
+            , (android.widget.Button) bindings[15]
+            , (android.widget.RadioButton) bindings[7]
+            , (android.widget.TextView) bindings[8]
             , (android.widget.TextView) bindings[9]
-            , (android.widget.TextView) bindings[10]
-            , (android.widget.RadioButton) bindings[11]
+            , (android.widget.RadioButton) bindings[10]
+            , (android.widget.TextView) bindings[11]
             , (android.widget.TextView) bindings[12]
             , (android.widget.TextView) bindings[13]
-            , (android.widget.TextView) bindings[14]
             );
         this.cancelButton.setTag(null);
         this.cauliflower.setTag(null);
@@ -66,7 +67,6 @@ public class FragmentEntreeMenuBindingImpl extends FragmentEntreeMenuBinding imp
         this.chili.setTag(null);
         this.chiliDescription.setTag(null);
         this.chiliPrice.setTag(null);
-        this.entreeOptions.setTag(null);
         this.mboundView0 = (android.widget.ScrollView) bindings[0];
         this.mboundView0.setTag(null);
         this.nextButton.setTag(null);
@@ -264,8 +264,8 @@ public class FragmentEntreeMenuBindingImpl extends FragmentEntreeMenuBinding imp
             // api target 1
 
             this.cancelButton.setOnClickListener(mCallback18);
+            this.cauliflower.setOnClickListener(mCallback14);
             this.chili.setOnClickListener(mCallback15);
-            this.entreeOptions.setOnClickListener(mCallback14);
             this.nextButton.setOnClickListener(mCallback19);
             this.pasta.setOnClickListener(mCallback16);
             this.skillet.setOnClickListener(mCallback17);

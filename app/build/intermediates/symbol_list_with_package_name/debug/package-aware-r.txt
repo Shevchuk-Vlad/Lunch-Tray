@@ -2917,6 +2917,7 @@ id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
 id nav_controller_view_tag
+id nav_host_fragment
 id nav_host_fragment_container
 id navigation_bar_item_active_indicator_view
 id navigation_bar_item_icon_container
@@ -3052,7 +3053,7 @@ id src_over
 id standard
 id start
 id startHorizontal
-id startOrderFragment
+id startOrder
 id startToEnd
 id startVertical
 id start_order_btn

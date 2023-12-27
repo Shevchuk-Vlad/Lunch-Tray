@@ -1,0 +1,484 @@
+# 2023-12-27T11:39:32.967Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 9
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_start_order_from_checkout"
+    start_time {
+      seconds: 1703677162
+      nanos: 189000000
+    }
+    end_time {
+      seconds: 1703677163
+      nanos: 142000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Lunch Tray\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_34(AVD) - 14\\logcat-com.example.lunchtray.NavigationTests-navigate_to_start_order_from_checkout.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Lunch Tray\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_34(AVD) - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Lunch Tray\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_34(AVD) - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Lunch Tray\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_34(AVD) - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_start_order_from_entree_menu"
+    start_time {
+      seconds: 1703677163
+      nanos: 617000000
+    }
+    end_time {
+      seconds: 1703677164
+      nanos: 218000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Lunch Tray\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_34(AVD) - 14\\logcat-com.example.lunchtray.NavigationTests-navigate_to_start_order_from_entree_menu.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Lunch Tray\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_34(AVD) - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Lunch Tray\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_34(AVD) - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Lunch Tray\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_34(AVD) - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_checkout_from_accompaniment_menu"
+    start_time {
+      seconds: 1703677164
+      nanos: 686000000
+    }
+    end_time {
+      seconds: 1703677165
+      nanos: 208000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Lunch Tray\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_34(AVD) - 14\\logcat-com.example.lunchtray.NavigationTests-navigate_to_checkout_from_accompaniment_menu.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Lunch Tray\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_34(AVD) - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Lunch Tray\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_34(AVD) - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Lunch Tray\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_34(AVD) - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_entree_menu_from_start_order"
+    start_time {
+      seconds: 1703677165
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 1703677166
+      nanos: 220000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Lunch Tray\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_34(AVD) - 14\\logcat-com.example.lunchtray.NavigationTests-navigate_to_entree_menu_from_start_order.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Lunch Tray\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_34(AVD) - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Lunch Tray\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_34(AVD) - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Lunch Tray\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_34(AVD) - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_start_order_from_checkout_via_submit"
+    start_time {
+      seconds: 1703677166
+      nanos: 711000000
+    }
+    end_time {
+      seconds: 1703677167
+      nanos: 800000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Lunch Tray\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_34(AVD) - 14\\logcat-com.example.lunchtray.NavigationTests-navigate_to_start_order_from_checkout_via_submit.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Lunch Tray\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_34(AVD) - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Lunch Tray\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_34(AVD) - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Lunch Tray\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_34(AVD) - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_start_order_from_accompaniment_menu"
+    start_time {
+      seconds: 1703677168
+      nanos: 265000000
+    }
+    end_time {
+      seconds: 1703677168
+      nanos: 937000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Lunch Tray\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_34(AVD) - 14\\logcat-com.example.lunchtray.NavigationTests-navigate_to_start_order_from_accompaniment_menu.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Lunch Tray\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_34(AVD) - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Lunch Tray\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_34(AVD) - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Lunch Tray\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_34(AVD) - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_accompaniment_menu_from_side_menu"
+    start_time {
+      seconds: 1703677169
+      nanos: 403000000
+    }
+    end_time {
+      seconds: 1703677169
+      nanos: 949000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Lunch Tray\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_34(AVD) - 14\\logcat-com.example.lunchtray.NavigationTests-navigate_to_accompaniment_menu_from_side_menu.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Lunch Tray\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_34(AVD) - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Lunch Tray\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_34(AVD) - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Lunch Tray\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_34(AVD) - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_start_order_from_side_menu"
+    start_time {
+      seconds: 1703677170
+      nanos: 412000000
+    }
+    end_time {
+      seconds: 1703677170
+      nanos: 931000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Lunch Tray\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_34(AVD) - 14\\logcat-com.example.lunchtray.NavigationTests-navigate_to_start_order_from_side_menu.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Lunch Tray\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_34(AVD) - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Lunch Tray\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_34(AVD) - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Lunch Tray\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_34(AVD) - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_side_menu_from_entree_menu"
+    start_time {
+      seconds: 1703677171
+      nanos: 422000000
+    }
+    end_time {
+      seconds: 1703677172
+      nanos: 148000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Lunch Tray\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_34(AVD) - 14\\logcat-com.example.lunchtray.NavigationTests-navigate_to_side_menu_from_entree_menu.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Lunch Tray\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_34(AVD) - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Lunch Tray\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_34(AVD) - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\User\\AndroidStudioProjects\\Lunch Tray\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_34(AVD) - 14\\cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "C:\\Users\\User\\AndroidStudioProjects\\Lunch Tray\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_34(AVD) - 14\\testlog\\test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}

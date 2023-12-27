@@ -1,0 +1,91 @@
+12-27 11:39:19.799  6990  7014 I TestRunner: started: navigate_to_start_order_from_checkout(com.example.lunchtray.NavigationTests)
+12-27 11:39:19.845  6990  7014 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+12-27 11:39:19.853  6990  7014 D CompatibilityChangeReporter: Compat change id reported: 160794467; UID 10195; state: ENABLED
+12-27 11:39:19.875  4216  4263 D SplashScreenView: Build android.window.SplashScreenView{b887d51 V.E...... ......ID 0,0-0,0}
+12-27 11:39:19.875  4216  4263 D SplashScreenView: Icon: view: null drawable: null size: 0
+12-27 11:39:19.875  4216  4263 D SplashScreenView: Branding: view: android.view.View{cf239b6 G.ED..... ......I. 0,0-0,0 #10204ef android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+12-27 11:39:19.897  4216  4266 E OpenGLRenderer: Unable to match the desired swap behavior.
+12-27 11:39:19.900  6990  7017 D libEGL  : loaded /vendor/lib64/egl/libEGL_emulation.so
+12-27 11:39:19.903  6990  7017 D libEGL  : loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+12-27 11:39:19.903  6990  6990 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@a91f595 in: PRE_ON_CREATE
+12-27 11:39:19.904  6990  6990 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@a91f595
+12-27 11:39:19.906  6990  7017 D libEGL  : loaded /vendor/lib64/egl/libGLESv2_emulation.so
+12-27 11:39:19.912   400   400 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+12-27 11:39:19.935  1092  1868 D EGL_emulation: app_time_stats: avg=1100.62ms min=1100.62ms max=1100.62ms count=1
+12-27 11:39:19.938  6990  6990 D CompatibilityChangeReporter: Compat change id reported: 210923482; UID 10195; state: DISABLED
+12-27 11:39:19.938  6990  6990 D CompatibilityChangeReporter: Compat change id reported: 37756858; UID 10195; state: ENABLED
+12-27 11:39:19.940  6990  6990 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@a91f595 in: CREATED
+12-27 11:39:19.941  6990  6990 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@a91f595
+12-27 11:39:19.944  6990  6990 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@a91f595 in: STARTED
+12-27 11:39:19.944  6990  6990 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@a91f595
+12-27 11:39:19.957  6990  6990 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@a91f595 in: RESUMED
+12-27 11:39:19.957  6990  6990 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@a91f595
+12-27 11:39:19.961  6990  6990 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@a91f595 in: PAUSED
+12-27 11:39:19.965  6990  6990 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@a91f595
+12-27 11:39:19.973  1639  1639 I GsaVoiceInteractionSrv: Handling ACTION_STOP_HOTWORD
+12-27 11:39:19.974  1639  2512 E HwDetectorWithState: a: 3
+12-27 11:39:20.002  6990  6990 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@a1e388b in: PRE_ON_CREATE
+12-27 11:39:20.003  6990  6990 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+12-27 11:39:20.040  6990  6990 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@a1e388b in: CREATED
+12-27 11:39:20.040  6990  6990 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@a1e388b
+12-27 11:39:20.042  6990  6990 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@a1e388b in: STARTED
+12-27 11:39:20.042  6990  6990 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@a1e388b
+12-27 11:39:20.044  6990  6990 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@a1e388b in: RESUMED
+12-27 11:39:20.044  6990  6990 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@a1e388b
+12-27 11:39:20.050  6990  6990 D CompatibilityChangeReporter: Compat change id reported: 237531167; UID 10195; state: DISABLED
+12-27 11:39:20.051  6990  6990 W OpenGLRenderer: Unknown dataspace 0
+12-27 11:39:20.080  6990  7016 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+12-27 11:39:20.080  6990  7016 W OpenGLRenderer: Failed to initialize 101010-2 format, error = EGL_SUCCESS
+12-27 11:39:20.113   164   164 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+12-27 11:39:20.114  6990  7016 I Gralloc4: mapper 4.x is not supported
+12-27 11:39:20.124  6990  7016 E OpenGLRenderer: Unable to match the desired swap behavior.
+12-27 11:39:20.137   577   631 W ziparchive: Unable to open '/data/app/~~0WWdzZBHjhc8yIyW359R3A==/com.example.lunchtray-GkB7aU-gzZcHISaUUx6HoA==/base.dm': No such file or directory
+12-27 11:39:20.138   577   631 I ActivityTaskManager: Displayed com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity for user 0: +281ms
+12-27 11:39:20.165  6990  6990 D CompatibilityChangeReporter: Compat change id reported: 171228096; UID 10195; state: ENABLED
+12-27 11:39:20.247  1092  1092 D AutofillManager: view is not autofillable - activity denied for autofill
+12-27 11:39:20.258  1009  1307 D BtGatt.ScanManager: uid 10125 isForeground true scanMode -1
+12-27 11:39:20.258  1009  1307 D BtGatt.ScanManager: uid 10125 isForeground true scanMode -1
+12-27 11:39:20.261  6990  6990 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@a91f595 in: STOPPED
+12-27 11:39:20.261  6990  6990 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@a91f595
+12-27 11:39:20.268  1092  2028 D OneSearchSuggestProvider: Shut down the binder channel
+12-27 11:39:20.269  1092  1135 I IPCThreadState: oneway function results for code 2 on binder at 0x7940308bc5e0 will be dropped but finished with status UNKNOWN_TRANSACTION
+12-27 11:39:20.270   577  2171 I ImeTracker: com.example.lunchtray:d3ac0120: onRequestHide at ORIGIN_SERVER_HIDE_INPUT reason HIDE_UNSPECIFIED_WINDOW
+12-27 11:39:20.271   577  2171 I ImeTracker: com.example.lunchtray:d3ac0120: onCancelled at PHASE_SERVER_SHOULD_HIDE
+12-27 11:39:20.274  1488  1488 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3227
+12-27 11:39:20.274  1092  1183 I ImeTracker: com.google.android.apps.nexuslauncher:3aef9bad: onRequestHide at ORIGIN_CLIENT_HIDE_SOFT_INPUT reason HIDE_SOFT_INPUT
+12-27 11:39:20.275  1488  1488 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 0, unlocked = true
+12-27 11:39:20.276   577  2171 I ImeTracker: com.google.android.apps.nexuslauncher:3aef9bad: onCancelled at PHASE_SERVER_CLIENT_FOCUSED
+12-27 11:39:20.276  1488  1488 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1877 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.lunchtray fieldId=0 fieldName=null extras=null}, false)
+12-27 11:39:20.276  1488  1488 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():4008 ShouldHideHeaderOnInitialState = false
+12-27 11:39:20.277  1488  1488 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 2, unlocked = true
+12-27 11:39:20.300  4216  4266 D EGL_emulation: app_time_stats: avg=20267.76ms min=20267.76ms max=20267.76ms count=1
+12-27 11:39:20.421  6990  7014 D EventInjectionStrategy: Creating injection strategy with input manager.
+12-27 11:39:20.421  6990  7014 W ample.lunchtray: Accessing hidden method Landroid/hardware/input/InputManager;->getInstance()Landroid/hardware/input/InputManager; (unsupported, reflection, allowed)
+12-27 11:39:20.422  6990  7014 W ample.lunchtray: Accessing hidden method Landroid/hardware/input/InputManager;->injectInputEvent(Landroid/view/InputEvent;I)Z (unsupported, reflection, allowed)
+12-27 11:39:20.422  6990  7014 W ample.lunchtray: Accessing hidden field Landroid/hardware/input/InputManager;->INJECT_INPUT_EVENT_MODE_WAIT_FOR_FINISH:I (unsupported, reflection, allowed)
+12-27 11:39:20.440  6990  7014 W ample.lunchtray: Accessing hidden method Landroid/view/ViewConfiguration;->getDoubleTapMinTime()I (unsupported, reflection, allowed)
+12-27 11:39:20.448  6990  6990 W ample.lunchtray: Accessing hidden method Landroid/os/MessageQueue;->next()Landroid/os/Message; (unsupported, reflection, allowed)
+12-27 11:39:20.449  6990  6990 W ample.lunchtray: Accessing hidden field Landroid/os/MessageQueue;->mMessages:Landroid/os/Message; (unsupported, reflection, allowed)
+12-27 11:39:20.449  6990  6990 W ample.lunchtray: Accessing hidden method Landroid/os/Message;->recycleUnchecked()V (unsupported, reflection, allowed)
+12-27 11:39:20.467  6990  6990 W ample.lunchtray: Accessing hidden method Landroid/view/WindowManagerGlobal;->getInstance()Landroid/view/WindowManagerGlobal; (unsupported, reflection, allowed)
+12-27 11:39:20.467  6990  6990 W ample.lunchtray: Accessing hidden field Landroid/view/WindowManagerGlobal;->mViews:Ljava/util/ArrayList; (unsupported, reflection, allowed)
+12-27 11:39:20.467  6990  6990 W ample.lunchtray: Accessing hidden field Landroid/view/WindowManagerGlobal;->mParams:Ljava/util/ArrayList; (unsupported, reflection, allowed)
+12-27 11:39:20.473  1009  1307 D BtGatt.ScanManager: uid 10125 isForeground true scanMode -1
+12-27 11:39:20.473  1009  1307 D BtGatt.ScanManager: uid 10125 isForeground true scanMode -1
+12-27 11:39:20.477  1382  4442 I FontLog : Received query Noto Color Emoji Compat, URI content://com.google.android.gms.fonts [CONTEXT service_id=132 ]
+12-27 11:39:20.478  1382  4442 I FontLog : Query [emojicompat-emoji-font] resolved to {Noto Color Emoji Compat, wdth 100.0, wght 400, ital 0.0, bestEffort false} [CONTEXT service_id=132 ]
+12-27 11:39:20.479  1382  4442 I FontLog : Fetch {Noto Color Emoji Compat, wdth 100.0, wght 400, ital 0.0, bestEffort false} end status Status{statusCode=SUCCESS, resolution=null} [CONTEXT service_id=132 ]
+12-27 11:39:20.481  6990  6990 D CompatibilityChangeReporter: Compat change id reported: 247079863; UID 10195; state: DISABLED
+12-27 11:39:20.481  6990  6990 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230842/com.example.lunchtray:id/cancel_button>
+12-27 11:39:20.485  1092  1092 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=719.5, y[0]=1233.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=129327872, downTime=129327872, deviceId=-1, source=0x1002, displayId=0, eventId=-121869327 }
+12-27 11:39:20.489  1382  4442 I FontLog : Pulling font file for id = 646, cache size = 5 [CONTEXT service_id=132 ]
+12-27 11:39:20.492  1382  4442 I FontLog : Pulling font file for id = 646, cache size = 5 [CONTEXT service_id=132 ]
+12-27 11:39:20.517  4216  4266 D EGL_emulation: app_time_stats: avg=18961.17ms min=0.81ms max=189601.52ms count=10
+12-27 11:39:20.526  1092  1092 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=719.5, y[0]=1233.5, toolType[0]=TOOL_TYPE_FINGER, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=129327913, downTime=129327872, deviceId=-1, source=0x1002, displayId=0, eventId=-1043022533 }
+12-27 11:39:20.529   394   436 D audioserver: FGS Logger Transaction failed
+12-27 11:39:20.529   394   436 D audioserver: -129
+12-27 11:39:20.542  4216  4262 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=falsecallback=android.view.ViewRootImpl$$ExternalSyntheticLambda17@32acdab
+12-27 11:39:20.543   577  2171 W InputManager-JNI: Input channel object 'd794995 Splash Screen com.example.lunchtray (client)' was disposed without first being removed with the input manager!
+12-27 11:39:20.692   394   493 D audioserver: FGS Logger Transaction failed
+12-27 11:39:20.692   394   493 D audioserver: -129
+12-27 11:39:20.749  6990  7014 I TestRunner: finished: navigate_to_start_order_from_checkout(com.example.lunchtray.NavigationTests)
